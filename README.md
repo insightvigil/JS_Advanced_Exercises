@@ -5,9 +5,6 @@ In this repository, I include 20+ exercises that I completed during the Web Deve
 ### Applied technologies 🧑‍💻
 - JavaScript
 
-
-You can check it out live [here](https://insightvigil.github.io/ztm-webdv-js-exercises).
-
 ### Contributors 🤝
 - [Adrián Vigil](https://github.com/insightvigil)
 
